@@ -1,0 +1,14 @@
+C:\Users\ВидаЗолтан\Documents\GitHub\AdvXalmGame\ShortMemoryGame\bin\Debug\ShortMemoryGame.exe.config
+C:\Users\ВидаЗолтан\Documents\GitHub\AdvXalmGame\ShortMemoryGame\bin\Debug\ShortMemoryGame.exe
+C:\Users\ВидаЗолтан\Documents\GitHub\AdvXalmGame\ShortMemoryGame\bin\Debug\ShortMemoryGame.pdb
+C:\Users\ВидаЗолтан\Documents\GitHub\AdvXalmGame\ShortMemoryGame\obj\Debug\ShortMemoryGame.csprojResolveAssemblyReference.cache
+C:\Users\ВидаЗолтан\Documents\GitHub\AdvXalmGame\ShortMemoryGame\obj\Debug\MainWindow.g.cs
+C:\Users\ВидаЗолтан\Documents\GitHub\AdvXalmGame\ShortMemoryGame\obj\Debug\App.g.cs
+C:\Users\ВидаЗолтан\Documents\GitHub\AdvXalmGame\ShortMemoryGame\obj\Debug\ShortMemoryGame_MarkupCompile.cache
+C:\Users\ВидаЗолтан\Documents\GitHub\AdvXalmGame\ShortMemoryGame\obj\Debug\ShortMemoryGame_MarkupCompile.lref
+C:\Users\ВидаЗолтан\Documents\GitHub\AdvXalmGame\ShortMemoryGame\obj\Debug\MainWindow.baml
+C:\Users\ВидаЗолтан\Documents\GitHub\AdvXalmGame\ShortMemoryGame\obj\Debug\ShortMemoryGame.g.resources
+C:\Users\ВидаЗолтан\Documents\GitHub\AdvXalmGame\ShortMemoryGame\obj\Debug\ShortMemoryGame.Properties.Resources.resources
+C:\Users\ВидаЗолтан\Documents\GitHub\AdvXalmGame\ShortMemoryGame\obj\Debug\ShortMemoryGame.csproj.GenerateResource.Cache
+C:\Users\ВидаЗолтан\Documents\GitHub\AdvXalmGame\ShortMemoryGame\obj\Debug\ShortMemoryGame.exe
+C:\Users\ВидаЗолтан\Documents\GitHub\AdvXalmGame\ShortMemoryGame\obj\Debug\ShortMemoryGame.pdb
